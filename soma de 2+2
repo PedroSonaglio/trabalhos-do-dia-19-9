@@ -1,0 +1,10 @@
+programa
+{
+	inclua biblioteca Matematica
+	
+	funcao inicio()
+	{
+	
+		escreva("2 + 2 = ", 2 + 2)
+	}
+}
